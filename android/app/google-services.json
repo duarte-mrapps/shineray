@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573928613090",
+    "project_id": "e9cc0cfd39ccf417f",
+    "storage_bucket": "e9cc0cfd39ccf417f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573928613090:android:3aa44b7aa73244f6d12abb",
+        "android_client_info": {
+          "package_name": "com.shinerayaurora.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0EWwZuRJ3d-YXLWW408MR9v5cMo_2tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
